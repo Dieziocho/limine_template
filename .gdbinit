@@ -1,0 +1,2 @@
+set print pretty on
+mem 0x0000000000000000 0xFFFFFFFFFFFFFFFF ro
